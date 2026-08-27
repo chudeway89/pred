@@ -1,0 +1,71 @@
+/*
+Theme Name: GSLEY
+Theme URI: https://gsley.com
+Author: GSLEY
+Author URI: https://gsley.com
+Description: GSLEY corporate website theme — Engineered Precision. A digital-first professional services firm. The homepage renders the bundled GSLEY application; additional WordPress pages render through the standard template.
+Version: 1.0.0
+Requires at least: 5.6
+Tested up to: 6.5
+Requires PHP: 7.4
+License: Proprietary
+Text Domain: gsley
+Tags: business, professional, full-site
+*/
+
+/* The bundled GSLEY app injects its own styles. The rules below apply only
+   to the standard WordPress page template (page.php) and the WordPress admin bar. */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #0F1B2D;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+* { box-sizing: border-box; }
+
+a { color: #0F1B2D; }
+
+.gsley-page {
+  max-width: 880px;
+  margin: 80px auto;
+  padding: 0 32px;
+  line-height: 1.65;
+}
+
+.gsley-page h1 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  font-size: clamp(40px, 6vw, 64px);
+  line-height: 1.05;
+  letter-spacing: -1.5px;
+  margin: 0 0 32px;
+}
+
+.gsley-page h2 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 48px 0 16px;
+}
+
+.gsley-page p { font-size: 17px; color: #334155; }
+
+.gsley-page-nav {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(255,255,255,0.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(15,27,45,0.08);
+  padding: 16px 32px;
+  display: flex; justify-content: space-between; align-items: center;
+}
+
+.gsley-page-nav a {
+  text-decoration: none;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+}
