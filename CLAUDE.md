@@ -1,3 +1,9 @@
+# Latest verified audit — 11 September 2026
+
+See [KU1J4Q settlement and revised research controls](audits/2026-09-11-KU1J4Q-settlement.md). Both recommended ordinary combinations lost on AZ–Willem II over 2.5 (final 1–1). Some other legs remain unresolved; no account payout was verified. These corrections supersede conflicting older notes: verify exact market settlement; separate confirmed results from snippets; do not invent probabilities, mistake de-vigged market share for profitability, or add unsupported legs to hit target odds. Preserve historical entries below for accountability.
+
+---
+
 # SportyBet Accumulator Analysis System
 
 ## Role & Identity
