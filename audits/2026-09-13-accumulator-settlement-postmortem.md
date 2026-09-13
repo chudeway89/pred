@@ -126,19 +126,23 @@ A losing leg is not automatically a bad prediction, and a winning leg is not aut
 
 ## Source record
 
-- [Fuerza Regia official result](https://www.fuerzaregia.com.mx/)
-- [Reuters: Dortmund 3–0 Paderborn and Bundesliga results](https://www.reuters.com/sports/soccer/dortmund-make-it-three-wins-three-with-3-0-victory-over-paderborn-2026-09-12/)
+- [Santos del Potosí 74–103 Fuerza Regia](https://www.sportytrader.com/en/results-live/santos-del-potosi-fuerza-regia-8707648/)
+- [Reuters: Dortmund 3–0 Paderborn, Augsburg 2–2 Leverkusen and Freiburg 5–0 Gladbach](https://www.reuters.com/sports/soccer/dortmund-make-it-three-wins-three-with-3-0-victory-over-paderborn-2026-09-12/)
 - [Reuters: Liverpool 0–0 Fulham and Arsenal 2–0 Sunderland](https://www.reuters.com/sports/soccer/liverpool-chelsea-held-wins-forest-ipswich-2026-09-12/)
 - [Reuters: Racing 2–1 Alavés and Athletic 1–1 Elche](https://www.reuters.com/sports/soccer/mbappe-scores-brace-real-madrid-secure-routine-victory-over-rayo-vallecano-2026-09-12/)
-- [Porto match video/result: Casa Pia 1–4 Porto](https://vsports.pt/maisf/equipa/fc-porto/v7)
-- [Al-Khaleej 1–1 Al-Nassr report](https://as.com/futbol/internacional/paso-atras-para-cristiano-f202609-n/)
-- [West Brom 1–1 QPR result](https://www.sofascore.com/fr/football/match/west-bromwich-albion-queens-park-rangers/bsi)
-- [Netherlands results: Twente 2–0 ADO, Go Ahead 1–1 Groningen, Cambuur 3–0 NEC](https://www.besoccer.com/team/sc-cambuur-leeuwarden)
-- [Chippa 1–1 Sundowns result](https://africa.espn.com/)
-- [U20 women results](https://www.footlive.com/)
+- [Hoffenheim 2–1 Stuttgart](https://www.welt.de/regionales/baden-wuerttemberg/article6aa5709acdb463e19b9347cb/stuttgart-strauchelt-in-hoffenheim.html)
+- [Casa Pia 1–4 Porto](https://vsports.pt/maisf/equipa/fc-porto/v7)
+- [Al-Khaleej 1–1 Al-Nassr](https://as.com/futbol/internacional/paso-atras-para-cristiano-f202609-n/)
+- [West Brom 1–1 QPR](https://www.espn.com/soccer/match/_/gameId/401880258/queens-park-rangers-west-bromwich-albion)
+- [Netherlands results: Twente 2–0 ADO, Go Ahead 1–1 Groningen and Cambuur 3–0 NEC](https://www.vi.nl/wedstrijden/2026/09/12/nederland/eredivisie/sc-cambuur-vs-nec)
+- [Chippa United 1–1 Mamelodi Sundowns](https://supersport.com/football/betway-premiership/news/0efb56a2-c7f3-4925-bdf9-536b9ca0297d/clutch-van-wyk-saves-downs-in-chippa-stalemate)
+- [Ghana U20 women 0–4 France and Korea Republic U20 women 3–2 Ecuador](https://www.footlive.com/score/ghana-u20-w-vs-france-u20-w-2026-09-12/)
+- [Dunkerque 2–1 Saint-Étienne, with Saint-Étienne leading 1–0 at half-time](https://www.lequipe.fr/Football/Actualites/Battu-a-dunkerque-saint-etienne-perd-son-premier-match-cette-saison-en-ligue-2/1718310)
 - [Colwyn Bay 2–1 Connah’s Quay](https://www.skysports.com/football/colwyn-bay-vs-connahs-quay-nomads/563981)
-- [Sparta Prague 2–0 Jablonec official match page](https://sparta.cz/)
-- [Giessen 70–77 Chemnitz result](https://www.sportytrader.com/en/results-live/lti-giessen-46ers-bv-chemnitz-99-8703058/)
-- [France 86–64 Germany result](https://www.espn.com/)
+- [Sparta Prague 2–0 Jablonec](https://www.scorebat.com/jablonec-vs-sparta-praha-live-stream/)
+- [Giessen 70–77 Chemnitz](https://www.livescore.com/es/baloncesto/alemania/bbl-cup/giessen-46ers-vs-niners-chemnitz/1890499/)
+- [Reuters: France 86–64 Germany](https://www.reuters.com/sports/holders-us-battle-past-spain-reach-womens-world-cup-final-2026-09-12/)
+
+All match statuses were rechecked as final. Conflicting live placeholders were rejected in favour of completed, dated result reports.
 
 This file supersedes any provisional settlement figures or stale live-score snapshots from the same review cycle.
