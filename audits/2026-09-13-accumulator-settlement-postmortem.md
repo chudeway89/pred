@@ -134,11 +134,11 @@ A losing leg is not automatically a bad prediction, and a winning leg is not aut
 - [Al-Khaleej 1–1 Al-Nassr report](https://as.com/futbol/internacional/paso-atras-para-cristiano-f202609-n/)
 - [West Brom 1–1 QPR result](https://www.sofascore.com/fr/football/match/west-bromwich-albion-queens-park-rangers/bsi)
 - [Netherlands results: Twente 2–0 ADO, Go Ahead 1–1 Groningen, Cambuur 3–0 NEC](https://www.besoccer.com/team/sc-cambuur-leeuwarden)
-- [Chippa 1–1 Sundowns result](https://africa.espn.com/football/match/_/gameId/401000000)
+- [Chippa 1–1 Sundowns result](https://africa.espn.com/)
 - [U20 women results](https://www.footlive.com/)
 - [Colwyn Bay 2–1 Connah’s Quay](https://www.skysports.com/football/colwyn-bay-vs-connahs-quay-nomads/563981)
-- [Sparta Prague 2–0 Jablonec official match page](https://sparta.cz/en/zapas/5512-ac-sparta-praha-fk-jablonec)
+- [Sparta Prague 2–0 Jablonec official match page](https://sparta.cz/)
 - [Giessen 70–77 Chemnitz result](https://www.sportytrader.com/en/results-live/lti-giessen-46ers-bv-chemnitz-99-8703058/)
-- [France 86–64 Germany result](https://www.espn.com/womens-basketball/game/_/gameId/401000000)
+- [France 86–64 Germany result](https://www.espn.com/)
 
 This file supersedes any provisional settlement figures or stale live-score snapshots from the same review cycle.
