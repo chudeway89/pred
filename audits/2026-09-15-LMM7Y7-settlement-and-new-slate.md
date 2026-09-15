@@ -6,17 +6,17 @@
 
 ## Executive outcome
 
-SportyBet booking code **LMM7Y7 lost**. The result is conclusive because at least nine selections are confirmed losses. The audit is analytical rather than an account-level SportyBet settlement: no wager was placed by the assistant, and SportyBet's public results view did not expose a complete settlement record for every lower-league market.
+SportyBet booking code **LMM7Y7 lost**. The result is conclusive because ten selections are confirmed losses. The audit is analytical rather than an account-level SportyBet settlement: no wager was placed by the assistant, and SportyBet's public results view did not expose a complete settlement record for every lower-league market.
 
 The exact reconciliation is:
 
-- **23 confirmed wins**
-- **9 confirmed losses**
+- **22 confirmed wins**
+- **10 confirmed losses**
 - **4 pushes**
 - **3 unresolved second-half markets**
 - **1 provisional win whose original market label remains ambiguous**
 
-The nine confirmed losses are enough to settle the accumulator as lost regardless of the unresolved rows.
+The ten confirmed losses are enough to settle the accumulator as lost regardless of the unresolved rows.
 
 ## Confirmed losing legs
 
@@ -32,8 +32,6 @@ The nine confirmed losses are enough to settle the accumulator as lost regardles
 | 33 | Jong PSV–Jong AZ | Asian over 3 | 1–1 | Loss |
 | 38 | Djurgården–GAIS | Over 7.5 corners | 2–0; corners 2–2 | Loss |
 | 39 | Örebro–United Nordic | Full-time 12 | 1–1 | Loss |
-
-> Count note: the ledger contains ten losing rows above. The executive count was reconciled from the original 40 legs and is corrected below to **10 losses**, not nine.
 
 ## Full settlement ledger
 
